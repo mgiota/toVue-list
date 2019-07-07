@@ -107,11 +107,11 @@
     outline: none
   }
 
-.edit{
-  color: #1ea896;
-  font-size: 1em;
-  padding:1px;
-}
+  .edit{
+    color: #1ea896;
+    font-size: 1em;
+    padding:1px;
+  }
 
   label {
     position: absolute;
